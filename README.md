@@ -152,7 +152,7 @@ This mini build validates the practical application of LLMs, embeddings, RAG, ag
 
 ---
 
-## 13. References (Optional)
+## 13. References
 
 - RBI Circulars on Digital Payment Security  
 - NPCI UPI Procedural Guidelines  
